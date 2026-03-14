@@ -12,8 +12,5 @@ It was nice while it lasted. Alas, it’s over.
 Good bye!
 Yegor
 
-P.S.: To show your appreciation, especially if you bought the suite from a pirate, you’re invited to use these links:
-— https://paypal.me/jvesoft
-— https://btc.com/3QeDMmUqXPsh7zBqeEwPGWsgUnWkRF762Y
-— https://etherscan.io/address/0x13Bc4E2F58884CA0696218D1428d56f46b87DC46
-Sadly it will anyway not grand you support...
+P.S.: To show your appreciation, especially if you bought the suite from a pirate, you’re invited to use this link: https://paypal.me/jvesoft
+Sadly it will anyway not grant you support...
